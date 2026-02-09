@@ -31,3 +31,11 @@ I used an encoder from the arduino starter kit, the CH340 arduino nano and parts
 
 - make sure the PSU power rating is at least 15% higher than the Heater power
 - use a microcontroler that has analog interrupt pins to detect encoder movements
+
+<h2>Finished Product pictures</h2>
+
+![1000009728](https://github.com/user-attachments/assets/b4d9d813-b4e7-48a0-9672-8733a8779c8a)
+![1000009724](https://github.com/user-attachments/assets/96546dd1-5d9e-42d7-a1f6-eb237fe18b41)
+![1000009725](https://github.com/user-attachments/assets/6f200dad-4c49-4dff-90db-7ad5025c7c8f)
+![1000009726](https://github.com/user-attachments/assets/3cdb799a-7b62-4d22-a053-db376bd6d9aa)
+![1000009727](https://github.com/user-attachments/assets/4aef67d2-8195-48a8-8b0b-04c558027087)
