@@ -13,9 +13,16 @@ A simple and cheap filament dryer made from a paint bucket and budget components
 - rotary encoder
 
 <h2>Schematics</h2>
-<h3>Heater controll schematic</h3>
+<h3>main schematic</h3>
 
-<img width="803" height="630" alt="image" src="https://github.com/user-attachments/assets/71ffbd76-8f08-44c6-9fd2-6f43f3506a3e" />
+<img width="2039" height="831" alt="image" src="https://github.com/user-attachments/assets/d818a36e-b304-43ff-ada7-ca14ccd09a26" />
+
+this circuit excludes the fan and the rotary encoder however they are simple to wire up. the fan is connecter to GND and +12V, and the encoder wiring diagram can be found in multiple tutorials
+
+
+<h3>originall heater circuit</h3>
+<img width="871" height="835" alt="image" src="https://github.com/user-attachments/assets/bd97ec19-10e6-4eda-bfc2-7c879244ba46" />
+
 
 <h3>Other parts</h3>
 
