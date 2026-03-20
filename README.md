@@ -36,7 +36,7 @@ I used an encoder from the arduino starter kit, the CH340 arduino nano and parts
 
 <h2>Design conciderations</h2>
 
-- make sure the PSU power rating is at least 15% higher than the Heater power
+- make sure the PSU power rating is at least 20% higher than the Heater power because it can draw a larger current on startup
 - use a microcontroler that has analog interrupt pins to detect encoder movements
 
 <h2>Finished Product pictures</h2>
